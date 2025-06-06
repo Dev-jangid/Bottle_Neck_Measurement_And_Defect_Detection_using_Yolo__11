@@ -1,11 +1,51 @@
 1. Image Data Set : https://www.kaggle.com/datasets/kaal1005/bottle-v11/data
-2. Image annotation Images : https://app.roboflow.com/mansteelsheet/bottle_images/4
-3.  Video Output :  1.  https://github.com/Dev-jangid/Bottle_Neck_Measurement_And_Defect_Detection_using_Yolo__11/blob/master/output/Green%202025-05-22%20180557.mp4
-                  2.   https://github.com/Dev-jangid/Bottle_Neck_Measurement_And_Defect_Detection_using_Yolo__11/blob/master/output/Red%202025-05-22%20180142.mp4
+2. Image annotation Images : https://app.roboflow.com/mansteelsheet/bottle_images/4 
+3.  Video Output :
+   `Link`     1.  https://github.com/Dev-jangid/Bottle_Neck_Measurement_And_Defect_Detection_using_Yolo__11/blob/master/output/Green%202025-05-22%20180557.mp4
+   `Link`     2.   https://github.com/Dev-jangid/Bottle_Neck_Measurement_And_Defect_Detection_using_Yolo__11/blob/master/output/Red%202025-05-22%20180142.mp4
 
 
 
 `PER_MM_PER_PIXEL = 0.092  # Calibration factor for pixel-to-mm conversion, adjusted for distance and viewing angle`
+
+
+
+
+
+### 1. 📸 Image Dataset
+
+* Source: [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/kaal1005/bottle-v11/data))  https://www.kaggle.com/datasets/kaal1005/bottle-v11/data
+  Use this platform to find and download relevant image datasets for training and testing.
+
+### 2. 🖍️ Image Annotation
+
+* Tool: [Roboflow]([https://app.roboflow.com/](https://app.roboflow.com/mansteelsheet/bottle_images/4 )) `https://app.roboflow.com/mansteelsheet/bottle_images/4 `
+  Use Roboflow to annotate your images, convert to YOLO format, and manage dataset versions easily.
+
+### 3. 🎥 Video Output Samples
+
+* Output Links:
+
+  * [GitHub Repository 1]([https://github.com/](https://github.com/Dev-jangid/Bottle_Neck_Measurement_And_Defect_Detection_using_Yolo__11/blob/master/output/Green%202025-05-22%20180557.mp4)) `https://github.com/Dev-jangid/Bottle_Neck_Measurement_And_Defect_Detection_using_Yolo__11/blob/master/output/Green%202025-05-22%20180557.mp4`
+  * [GitHub Repository 2 – MP4 Samples]( https://github.com/Dev-jangid/Bottle_Neck_Measurement_And_Defect_Detection_using_Yolo__11/blob/master/output/Red%202025-05-22%20180142.mp4
+)  ` https://github.com/Dev-jangid/Bottle_Neck_Measurement_And_Defect_Detection_using_Yolo__11/blob/master/output/Red%202025-05-22%20180142.mp4
+`
+    These links contain sample output videos showing object detection in action.
+
+---
+
+## 📏 Calibration
+
+```python
+PER_MM_PER_PIXEL = 0.092  # Pixel-to-mm conversion factor, calibrated based on camera distance and angle
+```
+
+> This constant is used to convert pixel distances into millimeters for accurate measurement calculations (e.g., bottle neck width).
+
+---
+
+Let me know if you'd like to turn this into a full `README.md` layout.
+
 
 
 
