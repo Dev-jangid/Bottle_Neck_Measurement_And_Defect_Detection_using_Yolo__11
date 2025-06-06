@@ -1,15 +1,15 @@
 
-### 1. 📸 Image Dataset
+### 1. Image Dataset
 
 * Source: [Kaggle] ([https://www.kaggle.com/](https://www.kaggle.com/datasets/kaal1005/bottle-v11/data)) ` https://www.kaggle.com/datasets/kaal1005/bottle-v11/data`
   Use this platform to find and download relevant image datasets for training and testing.
 
-### 2. 🖍️ Image Annotation
+### 2. Image Annotation
 
 * Tool:   [Roboflow] ([https://app.roboflow.com/](https://app.roboflow.com/mansteelsheet/bottle_images/4)) `https://app.roboflow.com/mansteelsheet/bottle_images/4 `
   Use Roboflow to annotate your images, convert to YOLO format, and manage dataset versions easily.
 
-### 3. 🎥 Video Output Samples
+### 3.  Video Output Samples
 
 * Output Links:
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 📏 Calibration
+##  Calibration
 
 ```python
 PER_MM_PER_PIXEL = 0.092  # Pixel-to-mm conversion factor, calibrated based on camera distance and angle
