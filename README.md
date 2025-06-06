@@ -13,7 +13,7 @@
 
 * Output Links:
 
-  * [GitHub Repository 1 – MP4 Samples]([https://github.com/](https://github.com/Dev-jangid/Bottle_Neck_Measurement_And_Defect_Detection_using_Yolo__11/blob/master/output/Green%202025-05-22%20180557.mp4)) `https://github.com/Dev-jangid/Bottle_Neck_Measurement_And_Defect_Detection_using_Yolo__11/blob/master/output/Green%202025-05-22%20180557.mp4`
+  * [GitHub Repository 1 – MP4 Samples](https://github.com/](https://github.com/Dev-jangid/Bottle_Neck_Measurement_And_Defect_Detection_using_Yolo__11/blob/master/output/Green%202025-05-22%20180557.mp4)) `https://github.com/Dev-jangid/Bottle_Neck_Measurement_And_Defect_Detection_using_Yolo__11/blob/master/output/Green%202025-05-22%20180557.mp4`
   * [GitHub Repository 2 – MP4 Samples]( https://github.com/Dev-jangid/Bottle_Neck_Measurement_And_Defect_Detection_using_Yolo__11/blob/master/output/Red%202025-05-22%20180142.mp4
 )  ` https://github.com/Dev-jangid/Bottle_Neck_Measurement_And_Defect_Detection_using_Yolo__11/blob/master/output/Red%202025-05-22%20180142.mp4
 `
