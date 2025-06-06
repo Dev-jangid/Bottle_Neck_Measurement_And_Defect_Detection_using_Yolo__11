@@ -6,7 +6,7 @@
 
 ### 2. 🖍️ Image Annotation
 
-* Tool: [Roboflow]([https://app.roboflow.com/](https://app.roboflow.com/mansteelsheet/bottle_images/4 )) `https://app.roboflow.com/mansteelsheet/bottle_images/4 `
+* Tool:   [Roboflow] ([https://app.roboflow.com/](https://app.roboflow.com/mansteelsheet/bottle_images/4)) `https://app.roboflow.com/mansteelsheet/bottle_images/4 `
   Use Roboflow to annotate your images, convert to YOLO format, and manage dataset versions easily.
 
 ### 3. 🎥 Video Output Samples
