@@ -1,7 +1,7 @@
 
 ### 1. 📸 Image Dataset
 
-* Source: [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/kaal1005/bottle-v11/data))  https://www.kaggle.com/datasets/kaal1005/bottle-v11/data
+* Source: [Kaggle] ([https://www.kaggle.com/](https://www.kaggle.com/datasets/kaal1005/bottle-v11/data)) ` https://www.kaggle.com/datasets/kaal1005/bottle-v11/data`
   Use this platform to find and download relevant image datasets for training and testing.
 
 ### 2. 🖍️ Image Annotation
@@ -31,7 +31,6 @@ PER_MM_PER_PIXEL = 0.092  # Pixel-to-mm conversion factor, calibrated based on c
 
 ---
 
-Let me know if you'd like to turn this into a full `README.md` layout.
 
 
 
